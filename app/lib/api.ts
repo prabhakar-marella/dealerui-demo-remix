@@ -1,4 +1,4 @@
-const BASE_URL = 'http://192.168.29.193:3000/api';
+const BASE_URL = 'http://10.0.2.9:3000/api';
 
 // Vehicle types
 export interface Vehicle {
